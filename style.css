@@ -1,0 +1,23 @@
+header {
+  border: 1px solid #000;
+}
+nav {
+  border: 2px solid red;
+}
+main {
+  border: 3px solid indigo;
+  padding: 20px;
+}
+section {
+  border: royalblue solid 2px;
+}
+article {
+  border: 2px solid #dedede;
+}
+footer {
+  border: 2px solid yellow;
+}
+main section img {
+  height: 200px;
+  width: 180px;
+}
